@@ -1,0 +1,4 @@
+scikit-learn
+skops
+gradio==4.16.0
+jupyter
